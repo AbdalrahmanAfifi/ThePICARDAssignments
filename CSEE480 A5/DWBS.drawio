@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2023-04-19T18:34:57.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Vxvzfu3PRekLc8xjBMH_" version="21.1.4" type="google">
+  <diagram id="Ml06Ca8wX8mZZ-9NpJdm" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-1" target="CxeaNN8NA_mMpHLuaNo8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-1" target="CxeaNN8NA_mMpHLuaNo8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-1" target="CxeaNN8NA_mMpHLuaNo8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-1" target="CxeaNN8NA_mMpHLuaNo8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-1" target="CxeaNN8NA_mMpHLuaNo8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-1" value="PICARD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-2" target="CxeaNN8NA_mMpHLuaNo8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-2" value="&lt;div&gt;1. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Create Frontend GUI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-3" target="CxeaNN8NA_mMpHLuaNo8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-3" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;3.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Create the Backend&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-4" target="CxeaNN8NA_mMpHLuaNo8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-4" value="&lt;div&gt;2.&lt;/div&gt;&lt;div&gt;Harden Server&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-5" target="CxeaNN8NA_mMpHLuaNo8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-5" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;4.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Automate Hardening of Each Node&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-6" target="CxeaNN8NA_mMpHLuaNo8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-6" value="&lt;div&gt;5.&lt;/div&gt;&lt;div&gt;Test each Algorithm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-13" target="CxeaNN8NA_mMpHLuaNo8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-13" value="&lt;div&gt;1.1&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;The frontend interface will combine all the software into one web based application&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;.&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-14" target="CxeaNN8NA_mMpHLuaNo8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-14" value="&lt;div&gt;2.1&lt;/div&gt;&lt;div&gt;The server will undergo hardening procedures in accordance with both OpenSCAP security standards and any additional requirements stipulated by WVUIT.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-15" target="CxeaNN8NA_mMpHLuaNo8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-15" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;3.1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;The backend will store all the data and distribute all the data to the nodes to run all the tests and save the results.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-16" target="CxeaNN8NA_mMpHLuaNo8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-16" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;4.1&lt;/font&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;All nodes must undergo hardening procedures in accordance with both OpenSCAP security standards and any other requirements mandated by WVUIT.&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CxeaNN8NA_mMpHLuaNo8-17" target="CxeaNN8NA_mMpHLuaNo8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-17" value="&lt;div&gt;5.1&lt;/div&gt;&lt;div&gt;Execute the algorithm on every implementation and choose the most optimal server architecture by evaluating their individual performances.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-18" value="&lt;div&gt;1.2&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;Primary: Travis Mueller&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Secondary: Zack Wildasin&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-19" value="&lt;div&gt;2.2&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;Primary: Abdalrahman Afifi &lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Secondary: Hunter Lavender&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-20" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;4.2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Primary: Hunter Lavender&lt;/font&gt;&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Secondary: Abdalrahman Afifi&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-21" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;3.2&lt;/font&gt;&lt;/div&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Primary:&amp;nbsp; Zack Wildasin&lt;/font&gt;&lt;/p&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Secondary: Travis Muelle&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;r&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CxeaNN8NA_mMpHLuaNo8-22" value="&lt;div&gt;5.2&lt;p role=&quot;presentation&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;All group members will work on this step.&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
